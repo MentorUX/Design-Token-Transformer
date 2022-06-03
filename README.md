@@ -78,4 +78,4 @@ If you only see the `Get started with GitHub Actions` page without an option to 
 ## Bugs, issues & feature requests
 If you have issues concerning the [Design Tokens plugin for Figma](https://github.com/lukasoppermann/design-tokens) please [create an issue in the plugin repo](https://github.com/lukasoppermann/design-tokens/issues/new). 
 
-Only create an issue in this repository if you have an issue with this transformation package.
+Only create an issue in this repository if you have an issue with this transformation package. Test 06/03/22.
